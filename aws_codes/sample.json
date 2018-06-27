@@ -1,0 +1,5 @@
+// test the post lambda function
+{
+	"voice" : "Joanna",
+	"text" : "Hello text wrangler"
+}
